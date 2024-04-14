@@ -1,2 +1,2 @@
 # python
-Learn Python
+Learning random things...

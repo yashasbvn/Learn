@@ -1,2 +1,2 @@
-# python
+# All things code 
 Learning random things...
